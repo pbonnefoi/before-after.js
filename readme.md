@@ -11,7 +11,7 @@ The class css `active` determine the upper image. Change it and see !
 
 ###Instanciate the plugin
 ```javascript
-$('.selector').beforeafter({
+$('.beforeafter').beforeafter({
     cursor: false,		//Default
 	direction: 'ltr'	//ttb, btt, ltr, rtl
 });
